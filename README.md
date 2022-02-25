@@ -15,3 +15,5 @@ This extractor works with the Wekinator software via OSC-Messages.
 The max-patch sends three features via OSC to Wekinator (left) and receives them after the training in the neural network to generate some MIDI-Notes, whenever you move your joystick (based on the training). 
 
 to be continued
+
+You can download the project at https://github.com/jantorge/joystick-features.git
